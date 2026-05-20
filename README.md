@@ -51,19 +51,19 @@ BankAccountSystem/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BankAccountSystem.git
+git clone https://github.com/pratik-tudu/Bank-Account-System.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd BankAccountSystem
+cd Bank-Account-System
 ```
 
 ## 3️⃣ Run the Program
 
 ```bash
-python BankAccountSystem.py
+python Bank-Account-System.py
 ```
 
 ---
